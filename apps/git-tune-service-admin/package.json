@@ -1,5 +1,5 @@
 {
-  "name": "@git-tune-service-2/admin",
+  "name": "@git-tune-service-1/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",

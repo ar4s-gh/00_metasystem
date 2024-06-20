@@ -23,8 +23,7 @@ const App = (): React.ReactElement => {
   }
   return (
     <div className="App">
-      <Admin
-        title={"GitTuneService-2"}
+        title={"GitTuneService-1"}
         dataProvider={dataProvider}
         authProvider={jwtAuthProvider}
         theme={theme}
