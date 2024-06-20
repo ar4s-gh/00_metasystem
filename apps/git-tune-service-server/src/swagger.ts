@@ -16,5 +16,6 @@ export const swaggerSetupOptions: SwaggerCustomOptions = {
   },
   customCssUrl: "../swagger/swagger.css",
   customfavIcon: "../swagger/favicon.png",
+
   customSiteTitle: "GitTuneService-1",
 };
